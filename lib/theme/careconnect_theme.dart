@@ -40,7 +40,7 @@ ThemeData buildLightTheme() {
         fontWeight: FontWeight.w800,
       ),
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       color: CareConnectColors.surface,
       elevation: 0,
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(28)),
@@ -74,7 +74,7 @@ ThemeData buildLightTheme() {
 ThemeData buildDarkTheme() {
   return buildLightTheme().copyWith(
     scaffoldBackgroundColor: const Color(0xFF0F1722),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       color: const Color(0xFF172331),
       elevation: 0,
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(28)),
