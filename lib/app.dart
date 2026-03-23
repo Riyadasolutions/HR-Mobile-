@@ -5,7 +5,15 @@ import 'package:provider/provider.dart';
 
 import 'core/app_routes.dart';
 import 'data/careconnect_api.dart';
-import 'screens/careconnect_pages.dart';
+import 'features/attendance/presentation/attendance_screen.dart';
+import 'features/auth/presentation/auth_screens.dart';
+import 'features/employees/presentation/employees_screens.dart';
+import 'features/home/presentation/home_screen.dart';
+import 'features/leave/presentation/leave_screen.dart';
+import 'features/notifications/presentation/notifications_screen.dart';
+import 'features/payslip/presentation/payslip_screen.dart';
+import 'features/profile/presentation/profile_screen.dart';
+import 'features/settings/presentation/settings_screen.dart';
 import 'state/app_state.dart';
 import 'theme/careconnect_theme.dart';
 
