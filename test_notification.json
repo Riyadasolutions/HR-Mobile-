@@ -1,0 +1,11 @@
+{
+  "notification": {
+    "title": "Points Added",
+    "body": "You have earned 150 points!"
+  },
+  "data": {
+    "type": "points_added",
+    "id": "123",
+    "data": "{\"points\": 150, \"description\": \"Your booking was successful! You have earned 150 new points.\"}"
+  }
+}

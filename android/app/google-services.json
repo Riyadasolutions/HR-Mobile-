@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "864507156762",
+    "project_id": "megasun-riyada",
+    "storage_bucket": "megasun-riyada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864507156762:android:71b640acd57a519df0b4a3",
+        "android_client_info": {
+          "package_name": "com.megaSun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864507156762-i4pcp8har40b1j4nvpeve073250to7oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.megaSun",
+            "certificate_hash": "3cc994d3e067105f1d57357202e6405b4da43d00"
+          }
+        },
+        {
+          "client_id": "864507156762-mvo873k4e3inj1cqelq73niu9dmk559u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.megaSun",
+            "certificate_hash": "b84179df874a2eaae22b1b6407945d0b82ece965"
+          }
+        },
+        {
+          "client_id": "864507156762-2ltu1dl06gp6rtmak9840lqtgtbnj689.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPqD81KszqrhOKXLnP5qh5Jyko6B3Hlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864507156762-2ltu1dl06gp6rtmak9840lqtgtbnj689.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864507156762-5nti16uehf5358uiiahs94sps7tmrccr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.megasun"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864507156762:android:f907a8a8e729ae1ef0b4a3",
+        "android_client_info": {
+          "package_name": "com.znznow.partners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864507156762-2ltu1dl06gp6rtmak9840lqtgtbnj689.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPqD81KszqrhOKXLnP5qh5Jyko6B3Hlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864507156762-2ltu1dl06gp6rtmak9840lqtgtbnj689.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864507156762-5nti16uehf5358uiiahs94sps7tmrccr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.megasun"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
