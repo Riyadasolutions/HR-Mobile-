@@ -1,0 +1,22 @@
+// TODO Must be re-created.
+signingConfigs {
+    release {
+        storeFile file("megasunKeyStore.jks")
+        storePassword "megasun@2026"
+        keyAlias "megasun"
+        keyPassword "megasun@2026"
+    }
+}
+
+// $ keytool -v -list -keystore
+// Alias: alftoon
+//MD5: 14:BF:ED:9D:13:6B:E8:75:16:D2:D2:68:74:16:05:CD
+//SHA1: 43:92:b7:54:0f:2e:8c:2d:d1:25:f8:24:ba:cc:02:2f:db:80:14:77
+//SHA-256: 81:78:40:14:66:CB:36:B4:05:C2:88:DD:42:B5:D5:86:F8:0E:96:88:EA:7D:2A:40:9A:DD:D5:4E:55:E5:53:98
+//Valid until: Tuesday, December 19, 2051
+
+
+//alias pass:   12345678
+//alias: alftoon
+//signingConfigs pass: 12345678
+//keytool -genkey -v -keystore C:\Users\PC\megasunKeyStore.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias megasun
