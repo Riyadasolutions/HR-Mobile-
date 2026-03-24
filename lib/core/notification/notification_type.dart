@@ -1,7 +1,5 @@
 import 'package:base_app/app.dart';
 import 'package:base_app/core/notification/data/notification_data_model.dart';
-import 'package:base_app/core/routing/navigation_services.dart';
-import 'package:base_app/features/booking/route_generator.dart';
 
 
 import 'package:flutter/material.dart';
